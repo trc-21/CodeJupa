@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+      <!-- This is an image -->
+      <img src="https://raw.githubusercontent.com/trc-21/CodeJupa/refs/heads/main/Capstone%20Bannner%20Project.png" alt="An image" width="1200" height="400" />
+  <head>
+    <title> My Digital Debut</title>
+  </head>
+  <body>
+     <h1>Hello, World. Welcome to my website!</h1>
+     <p>This is my first web page. My introduction to the world of coding.</p>
+
+     <p>My name is Tavares Chestnut. Electrician by trade. Coding because it's fun. Some people call me a fool. Why learn how to code? Isn't it easier to be a tradesman in the electrical field? Blue collar jobs will never go away. Everyone needs a sparky?, right?</p>
+
+      <!-- This is an image -->
+      <img src="https://raw.githubusercontent.com/trc-21/CodeJupa/main/modern%20graffiti-style%20raw.png" alt="An image" width="600" height="400" />
+  </body>
+</html> 
